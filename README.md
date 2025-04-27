@@ -49,7 +49,7 @@ Zomato: Discovered the most popular cuisines, the relationship between cost and 
 
 Visualized trends using rich, interactive plots for easy understanding.
 
-🚀 Future Work
+ Future Work
 Black Friday: Plan to build prediction models for estimating purchase amounts based on customer demographics and behavior.
 
 Zomato: Working on creating a restaurant recommendation system based on ratings, cost, and location.
